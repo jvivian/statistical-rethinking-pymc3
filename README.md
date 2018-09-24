@@ -2,7 +2,7 @@ Taken from the [pymc3 devs **resources** directory](https://github.com/pymc-devs
 
 - [x] Chapter 2
 - [x] Chapter 3
-- [ ] Chapter 4
+- [x] Chapter 4
 - [ ] Chapter 5
 - [ ] Chapter 6
 - [ ] Chapter 7
